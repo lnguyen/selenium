@@ -1,0 +1,16 @@
+email: lnguyen@engineyard.com
+password: 3ng1ney@rd
+git_repo_uri: git://github.com/engineyard/todo.git
+application_name: AWESOMEMO
+application_type: Rails 3 
+environment_name: Test_Env
+framework_environment: production 
+application_stack: puma 
+runtime: Ruby 1.9.3 
+domain_name: sweet 
+region: Eastern United States 
+database_stack: MySQL 5.0.x
+database_backup_interval: 24
+database_backup_window: 10 
+snapshot_limit: 10 
+stack: QA
